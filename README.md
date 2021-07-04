@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @attapanhyar
+- 👋 Hi, I’m Atta Muhammad!
 - 👀 I’m interested in Deep learing in Python, Signal Processing in Python and Matalb. 
 - 🌱 I’m currently learning integrations of Front end backend Frameworks in Web Engineering
 - 💞️ I’m looking to collaborate on all above topics. 
