@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Atta Muhammad!
-- 👀 I’m interested in Deep learing in Python, Signal Processing in Python and Matalb. 
-- 🌱 I’m currently learning integrations of Front end backend Frameworks in Web Engineering
+- 👀 I’m interested in Deep Learning, Generative AI and Agentic AI. 
+- 🌱 I’m currently learning Agentic AI and Large Language Models
 - 💞️ I’m looking to collaborate on all above topics. 
 - 📫 How to reach on 
 Facebook: https://www.facebook.com/iamattapanhyar
